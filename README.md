@@ -1,4 +1,7 @@
 # SQL-in-30-dias-
+
+![image](https://user-images.githubusercontent.com/108952236/219866983-bccf93a2-c17b-4b28-bfdb-6cbcd9d8bf5c.png)
+
 En este repositorio, vas a aprender los fundamentos de SQL: cómo crear una base de datos SQL desde cero, cómo utilizar comandos SQL, cómo obtener datos de la base de datos, escribir datos en la base de datos, editar datos en la base de datos así como cómo borrar datos de la base de datos.
 
 
